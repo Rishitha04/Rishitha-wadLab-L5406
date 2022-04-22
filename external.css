@@ -1,0 +1,19 @@
+h1{
+	color: hsl(50, 10%, 50%);
+	font-family: monospace;
+	border-style: solid;
+	border-color: grey;
+	text-align: center;
+}
+h2{
+	color: hotpink;
+	font-family: serif;
+}
+h3{
+	color: green;
+	font-family: cursive;
+}
+h4{
+	color: green;
+	font-family: initial;
+}
